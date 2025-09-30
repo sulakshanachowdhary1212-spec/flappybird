@@ -6,7 +6,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100v;
-  background: #70c5ce url("flappybird.png") no-repeat center;
+  background: #70c5ce url("flappybirdbg.png") no-repeat center;
   background-size: cover;
 }
 
