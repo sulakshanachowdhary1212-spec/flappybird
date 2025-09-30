@@ -6,7 +6,6 @@ body {
   justify-content: center;
   align-items: center;
   height: 100v;
-  background: #70c5ce url("flappybirdbg.png") no-repeat center;
   background-size: cover;
 }
 
@@ -17,8 +16,10 @@ body {
   align-items: center;
 }
 
-*/add a simple border so we can see the canvas clearly */ #game {
+/*add a simple border so we can see the canvas clearly */
+#game {
   border: 2pxsolid #db2a2a background-color #edb3c2;
+  background: url(flappybirdbg.png) no-repeat center;
 }
 .game-container h1 {
   position: absolute;
